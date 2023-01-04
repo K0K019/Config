@@ -14,7 +14,7 @@
 - 👋 Hi, I’m @K0K0
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning C++
-- 📫 How to reach me K0K0#9418
+- 📫 How to reach me K0K0#9189
 
 <p align="left">
 
